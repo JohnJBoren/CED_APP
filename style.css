@@ -1,0 +1,155 @@
+body {
+  display: grid;
+  height: 100vh;
+  grid-template: auto 1fr auto / auto 1fr auto
+}
+
+header {
+    background: whitesmoke;
+    color:rgba(255,255,255,.4);
+    padding: .5rem;
+    grid-column: 1 / 4;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+  max-width: 12vh;
+}
+
+a {
+  color: #000;
+}
+
+.floatLeft {
+  float: left;
+  font-size: 4vh;
+  color: gba(54,65,69,.7);
+}
+
+.left-sidebar {
+  background: whitesmoke;
+  grid-column: 1 / 2;
+}
+
+main {
+  background: whitesmoke;
+  grid-column: 2 / 3;
+}
+
+.right-sidebar {
+  background: whitesmoke;
+  grid-column: 3 / 4;
+}
+
+footer {
+    background: #142939;
+    color:rgba(255,255,255,.4);
+    padding: .5rem;
+    text-align: center;
+    grid-column: 1 / 4;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+}
+
+.left-sidebar,
+.right-sidebar {
+  padding: 7.5rem;
+}
+
+.sidepanel  {
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: #54afce;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidepanel a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidepanel a:hover {
+  color: #f1f1f1;
+}
+
+.sidepanel .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+}
+
+.openbtn {
+  float: left;
+  font-size: 4vh;
+  cursor: pointer;
+  background-color: whitesmoke;
+  color: #54afce;
+  padding: 10px 15px;
+  border: none;
+}
+
+.openbtn:hover {
+  background-color:#54afce;
+  color: whitesmoke;
+}
+
+main {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.visual {
+  height: 100px;
+  width: 100%;
+  background: #fcb040;
+  margin: 0.5rem 0;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-color: #4e7792;
+  border-style: solid;
+  border-width: thin;
+  padding: 1rem;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+.parent {
+  display: grid;
+  place-items: center;
+  resize: both;
+  overflow: auto;
+}
+
+.child {
+  padding: 0.5rem;
+  border-radius: 10px;
+  border: 1px solid #4e7792;
+  background: #54afce;
+  font-size: 2rem;
+  text-align: center;
+}
