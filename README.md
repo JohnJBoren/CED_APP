@@ -20,6 +20,13 @@ npm start
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
+## Observable JavaScript Notebooks
+
+[Ingesting a SpreadSheet and Creating a JSON](https://observablehq.com/@jables/ingesting-a-spreadsheet-and-creating-a-json)
+
+[Alaska Defense Sector Asset Inventory - Collapsible Tree](https://observablehq.com/@jables/alaska-defense-asset-map-collapsible-tree)
+
+
 ## Google Colab Notebooks
 [Business Formation Statistics](https://colab.research.google.com/drive/1Amj_3wrv58ndd--fRemIkjk6GnEiA_59?usp=sharing)
 
