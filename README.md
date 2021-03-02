@@ -1,8 +1,6 @@
 # UACED Electron App
 
 
-**Clone and run for a quick way to see Electron in action.**
-
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
 
 ## To Use
@@ -25,6 +23,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## Other Projects
 [John Boren's - Ongoing Projects]
 (https://romantic-khorana-c70a6e.netlify.app/)
+
 
 
 ## License
