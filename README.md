@@ -1,5 +1,10 @@
 # UACED Electron App
 
+The UACED Electron App was developed in the Spring of 2021.  It's purpose to run backend scripts to collect and continue scraping the Alaska Year-to-Year Job Numbers.
+
+This repository also contains projects that John Boren worked on during his tenure as a intern with the University of Alaska Center for Economic Research.
+
+This App can be installed on Windows, Macs and Linux machines.
 
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
 
