@@ -27,7 +27,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 [Alaska Defense Sector Asset Inventory - Collapsible Tree](https://romantic-khorana-c70a6e.netlify.app/ak_defense_asset_map)
 
-[Alaska Monthly Employment by Industry - Vertical Chart](https://romantic-khorana-c70a6e.netlify.app/ak_y2y_jobs_vertical.html)  
+[Alaska Monthly Employment by Industry - Vertical Chart](https://romantic-khorana-c70a6e.netlify.app/ak_y2y_jobs_vertical.html)
 
 [Alaska's COVID-19 New Cases Per Day](https://romantic-khorana-c70a6e.netlify.app/ak_covid.html
 )
