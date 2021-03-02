@@ -26,6 +26,10 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 [Alaska Defense Sector Asset Inventory - Collapsible Tree](https://observablehq.com/@jables/alaska-defense-asset-map-collapsible-tree)
 
+[Alaska Defense Asset Map - Cluster Dendrogram](https://observablehq.com/@jables/alaska-defense-asset-map-cluster-dendrogram)
+
+[Alaska Defense Asset Map Radial Tidy Tree](https://observablehq.com/@jables/alaska-defense-asset-map-radial-tidy-tree)
+
 
 ## Google Colab Notebooks
 [Business Formation Statistics](https://colab.research.google.com/drive/1Amj_3wrv58ndd--fRemIkjk6GnEiA_59?usp=sharing)
