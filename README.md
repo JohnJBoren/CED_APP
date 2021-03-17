@@ -1,5 +1,5 @@
-# **University of Alaska Center for Economic Development**  
-This repository of a collection of works from John J Boren from June 2020 to March 2021.
+# **University of Alaska Center for Economic Development**
+This repository of a collection of works from John Boren from June 2020 to March 2021.
 
 ## GlideApps
 
@@ -24,6 +24,8 @@ This repository of a collection of works from John J Boren from June 2020 to Mar
 
 [Pulse Survey](https://colab.research.google.com/drive/1S_OjtT4BHbyS7zJO81UC1jUPQU8vPtQT?usp=sharing)
 
+
+[AK_Monthly_Employment_Y2Y](https://colabresearch.google.com/drive/1VJdY9vph8RkhKwhmkUAH2U177-1JPDqf?usp=sharing)
 ## Other Projects
 
 [John Boren's - Ongoing Projects](https://romantic-khorana-c70a6e.netlify.app/)
