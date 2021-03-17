@@ -1,5 +1,4 @@
-# **This repository also contains projects that John Boren worked on during his tenure as a intern with the University of Alaska Center for Economic Research.
-**
+# **University of Alaska Center for Economic Research**
 
 ## GlideApps
 
