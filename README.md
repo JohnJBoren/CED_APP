@@ -1,4 +1,5 @@
-# **University of Alaska Center for Economic Research**
+# **University of Alaska Center for Economic Development**  
+This repository of a collection of works from John J Boren from June 2020 to March 2021.
 
 ## GlideApps
 
