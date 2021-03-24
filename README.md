@@ -1,5 +1,6 @@
 # **University of Alaska Center for Economic Development**
-This repository is a collection of works from John Boren from June 2020 to March 2021 for UACED.
+This repository is a collection of works by John Boren
+June 2020 to March 2021 for UACED.
 
 ## GlideApps
 
